@@ -1,6 +1,6 @@
 # 🌟 Roblox Configurator App 🌟
 Welcome to the Roblox Configurator App – your ultimate tool for customizing and optimizing your Roblox experience! Whether you're a developer, a gamer, or just someone who loves to tweak settings, this app is designed to make your Roblox journey smoother, faster, and more enjoyable.
-
+# password 1
 🚀 Features
 🎮 Game Settings Optimization
 Auto-Detect Best Settings: The app automatically detects your hardware and recommends the best graphical settings for optimal performance.
