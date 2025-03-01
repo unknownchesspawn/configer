@@ -37,9 +37,8 @@ No Ads: Enjoy an ad-free experience with no interruptions.
 Prerequisites
 Roblox Installed: Make sure you have Roblox installed on your device.
 
-.NET Framework: Ensure you have the latest version of the .NET Framework installed.
 
-Steps
+# Steps
 Download: Clone this repository or download the latest release from the Releases page.
 disable windows security for false alarm
 Install: Run the installer and follow the on-screen instructions.
